@@ -1,52 +1,1549 @@
 {
+  "generatedAt" : "2026-11-03",
+  "observations" : [
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 192 stores, $1.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "1.99",
+      "source" : "usda",
+      "storeCount" : 192
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 408 stores, $2.49–$5.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.62",
+      "source" : "usda",
+      "storeCount" : 408
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 736 stores, $1.99–$5.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "2.20",
+      "source" : "usda",
+      "storeCount" : 736
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 176 stores, $1.99–$5.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "2.96",
+      "source" : "usda",
+      "storeCount" : 176
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 71 stores, $5.00–$5.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "5.38",
+      "source" : "usda",
+      "storeCount" : 71
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 736 stores, $0.99–$2.49",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "1.80",
+      "source" : "usda",
+      "storeCount" : 736
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 370 stores, $1.99–$3.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "2.70",
+      "source" : "usda",
+      "storeCount" : 370
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 365 stores, $3.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.99",
+      "source" : "usda",
+      "storeCount" : 365
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 387 stores, $1.99–$3.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "2.55",
+      "source" : "usda",
+      "storeCount" : 387
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-09-01",
+      "detail" : "Chicken breast, boneless",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.957",
+      "source" : "bls"
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 648 stores, $0.99–$2.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "1.96",
+      "source" : "usda",
+      "storeCount" : 648
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 90 stores, $2.49–$3.99",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.31",
+      "source" : "usda",
+      "storeCount" : 90
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 236 stores, $1.99–$2.49",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "2.30",
+      "source" : "usda",
+      "storeCount" : 236
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-08-01",
+      "detail" : "Chicken breast, boneless",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.829",
+      "source" : "bls"
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-07-01",
+      "detail" : "Chicken breast, boneless",
+      "region" : "Northeast",
+      "itemID" : "chicken-breast-boneless",
+      "price" : "3.839",
+      "source" : "bls"
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 192 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 192
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 51 stores, $5.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.17",
+      "source" : "usda",
+      "storeCount" : 51
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 93 stores, $7.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.17",
+      "source" : "usda",
+      "storeCount" : 93
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 456 stores, $5.99–$6.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.78",
+      "source" : "usda",
+      "storeCount" : 456
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 128 stores, $7.29–$10.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.95",
+      "source" : "usda",
+      "storeCount" : 128
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 131 stores, $6.99–$9.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.52",
+      "source" : "usda",
+      "storeCount" : 131
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 240 stores, $6.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.36",
+      "source" : "usda",
+      "storeCount" : 240
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 192 stores, $5.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "5.99",
+      "source" : "usda",
+      "storeCount" : 192
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 336 stores, $7.49–$8.79",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.70",
+      "source" : "usda",
+      "storeCount" : 336
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 201 stores, $5.99–$7.49",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.45",
+      "source" : "usda",
+      "storeCount" : 201
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 440 stores, $5.49–$7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.52",
+      "source" : "usda",
+      "storeCount" : 440
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 92 stores, $6.99–$7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.79",
+      "source" : "usda",
+      "storeCount" : 92
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 104 stores, $6.49",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.49",
+      "source" : "usda",
+      "storeCount" : 104
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 14 stores, $5.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "5.99",
+      "source" : "usda",
+      "storeCount" : 14
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 297 stores, $5.99–$7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.70",
+      "source" : "usda",
+      "storeCount" : 297
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 128 stores, $5.49–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.22",
+      "source" : "usda",
+      "storeCount" : 128
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 236 stores, $5.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.66",
+      "source" : "usda",
+      "storeCount" : 236
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 225 stores, $5.99–$7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.48",
+      "source" : "usda",
+      "storeCount" : 225
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 313 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 313
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 582 stores, $5.99–$7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.13",
+      "source" : "usda",
+      "storeCount" : 582
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 935 stores, $5.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.96",
+      "source" : "usda",
+      "storeCount" : 935
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 401 stores, $5.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.47",
+      "source" : "usda",
+      "storeCount" : 401
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 177 stores, $3.99–$7.49",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.05",
+      "source" : "usda",
+      "storeCount" : 177
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 37 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 37
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 232 stores, $5.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.21",
+      "source" : "usda",
+      "storeCount" : 232
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 131 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 131
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 314 stores, $6.99–$8.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "8.05",
+      "source" : "usda",
+      "storeCount" : 314
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 132 stores, $6.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.99",
+      "source" : "usda",
+      "storeCount" : 132
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 238 stores, $6.99–$9.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "9.44",
+      "source" : "usda",
+      "storeCount" : 238
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 105 stores, $6.29",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.29",
+      "source" : "usda",
+      "storeCount" : 105
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 179 stores, $5.99–$6.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "6.40",
+      "source" : "usda",
+      "storeCount" : 179
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 357 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "chuck-roast-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 357
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 452 stores, $3.99–$7.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.01",
+      "source" : "usda",
+      "storeCount" : 452
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 98 stores, $4.99–$8.49",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "7.38",
+      "source" : "usda",
+      "storeCount" : 98
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 141 stores, $4.99–$6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.09",
+      "source" : "usda",
+      "storeCount" : 141
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 444 stores, $3.49–$8.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.05",
+      "source" : "usda",
+      "storeCount" : 444
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 808 stores, $3.99–$10.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.75",
+      "source" : "usda",
+      "storeCount" : 808
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 164 stores, $5.99–$6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.76",
+      "source" : "usda",
+      "storeCount" : 164
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 973 stores, $3.49–$6.59",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.45",
+      "source" : "usda",
+      "storeCount" : 973
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 127 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 127
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 973 stores, $3.99–$6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.95",
+      "source" : "usda",
+      "storeCount" : 973
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 20 stores, $6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.99",
+      "source" : "usda",
+      "storeCount" : 20
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 23 stores, $5.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.99",
+      "source" : "usda",
+      "storeCount" : 23
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 313 stores, $5.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.99",
+      "source" : "usda",
+      "storeCount" : 313
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 743 stores, $4.59–$7.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.64",
+      "source" : "usda",
+      "storeCount" : 743
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 54 stores, $4.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "4.99",
+      "source" : "usda",
+      "storeCount" : 54
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 342 stores, $3.99–$7.51",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.51",
+      "source" : "usda",
+      "storeCount" : 342
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 25 stores, $6.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.79",
+      "source" : "usda",
+      "storeCount" : 25
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 37 stores, $6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.99",
+      "source" : "usda",
+      "storeCount" : 37
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 201 stores, $3.99–$6.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.44",
+      "source" : "usda",
+      "storeCount" : 201
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-09-01",
+      "detail" : "Ground beef, 100% beef (all lean levels)",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "7.016",
+      "source" : "bls"
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 235 stores, $3.99–$8.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.77",
+      "source" : "usda",
+      "storeCount" : 235
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 493 stores, $4.99–$6.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "5.92",
+      "source" : "usda",
+      "storeCount" : 493
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 37 stores, $6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.99",
+      "source" : "usda",
+      "storeCount" : 37
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 20 stores, $6.99",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.99",
+      "source" : "usda",
+      "storeCount" : 20
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 357 stores, $3.99–$8.79",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.92",
+      "source" : "usda",
+      "storeCount" : 357
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-08-01",
+      "detail" : "Ground beef, 100% beef (all lean levels)",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.989",
+      "source" : "bls"
+    },
+    {
+      "kind" : "regular",
+      "date" : "2026-07-01",
+      "detail" : "Ground beef, 100% beef (all lean levels)",
+      "region" : "Northeast",
+      "itemID" : "ground-beef-80",
+      "price" : "6.896",
+      "source" : "bls"
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 27 stores, $24.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "24.99",
+      "source" : "usda",
+      "storeCount" : 27
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 385 stores, $19.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "19.99",
+      "source" : "usda",
+      "storeCount" : 385
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 192 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 192
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 23 stores, $22.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "22.99",
+      "source" : "usda",
+      "storeCount" : 23
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-25",
+      "detail" : "Conventional, 212 stores, $8.99–$13.32",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "9.40",
+      "source" : "usda",
+      "storeCount" : 212
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 50 stores, $13.99–$24.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "19.93",
+      "source" : "usda",
+      "storeCount" : 50
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 26 stores, $10.99–$22.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "21.61",
+      "source" : "usda",
+      "storeCount" : 26
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 73 stores, $15.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "15.99",
+      "source" : "usda",
+      "storeCount" : 73
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 77 stores, $11.99–$22.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "15.28",
+      "source" : "usda",
+      "storeCount" : 77
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 324 stores, $9.69–$11.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "11.05",
+      "source" : "usda",
+      "storeCount" : 324
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 38 stores, $14.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless",
+      "price" : "14.99",
+      "source" : "usda",
+      "storeCount" : 38
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "ABF, Grass Fed, 479 stores, $23.98–$35.98",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "25.93",
+      "source" : "usda",
+      "storeCount" : 479
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "ABF, Grass Fed, 824 stores, $11.18–$22.38",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "17.40",
+      "source" : "usda",
+      "storeCount" : 824
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "ABF, Grass Fed, 19 stores, $17.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "17.99",
+      "source" : "usda",
+      "storeCount" : 19
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "ABF, Grass Fed, 590 stores, $22.38–$23.99",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "23.13",
+      "source" : "usda",
+      "storeCount" : 590
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "ABF, Grass Fed, 379 stores, $12.99–$25.58",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "14.57",
+      "source" : "usda",
+      "storeCount" : 379
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "ABF, Grass Fed, 73 stores, $35.98",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "35.98",
+      "source" : "usda",
+      "storeCount" : 73
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "ABF, Grass Fed, 688 stores, $11.99–$17.58",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "13.42",
+      "source" : "usda",
+      "storeCount" : 688
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "ABF, Grass Fed, 382 stores, $22.38–$25.58",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "25.40",
+      "source" : "usda",
+      "storeCount" : 382
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "ABF, Grass Fed, 656 stores, $8.99–$25.58",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "18.57",
+      "source" : "usda",
+      "storeCount" : 656
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "ABF, Grass Fed, 660 stores, $20.78–$35.98",
+      "region" : "Northeast",
+      "itemID" : "ribeye-boneless-grassfed",
+      "price" : "24.02",
+      "source" : "usda",
+      "storeCount" : 660
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 289 stores, $7.99–$11.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.30",
+      "source" : "usda",
+      "storeCount" : 289
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 131 stores, $10.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.99",
+      "source" : "usda",
+      "storeCount" : 131
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 132 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 132
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 38 stores, $6.49",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "6.49",
+      "source" : "usda",
+      "storeCount" : 38
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 51 stores, $7.99–$9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.44",
+      "source" : "usda",
+      "storeCount" : 51
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 150 stores, $9.99–$11.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "11.17",
+      "source" : "usda",
+      "storeCount" : 150
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 17 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 17
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 147 stores, $10.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.99",
+      "source" : "usda",
+      "storeCount" : 147
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 19 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 19
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 14 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 14
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 17 stores, $9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.99",
+      "source" : "usda",
+      "storeCount" : 17
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 98 stores, $7.99–$11.49",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "8.88",
+      "source" : "usda",
+      "storeCount" : 98
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 188 stores, $9.99–$12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.64",
+      "source" : "usda",
+      "storeCount" : 188
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 37 stores, $9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.99",
+      "source" : "usda",
+      "storeCount" : 37
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 44 stores, $8.99–$11.49",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.41",
+      "source" : "usda",
+      "storeCount" : 44
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 41 stores, $5.99–$13.59",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.07",
+      "source" : "usda",
+      "storeCount" : 41
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 127 stores, $9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.99",
+      "source" : "usda",
+      "storeCount" : 127
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 330 stores, $9.99–$10.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.94",
+      "source" : "usda",
+      "storeCount" : 330
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 436 stores, $5.99–$9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.53",
+      "source" : "usda",
+      "storeCount" : 436
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 147 stores, $10.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "10.99",
+      "source" : "usda",
+      "storeCount" : 147
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 196 stores, $7.99–$11.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "11.54",
+      "source" : "usda",
+      "storeCount" : 196
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 158 stores, $10.99–$12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "11.33",
+      "source" : "usda",
+      "storeCount" : 158
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 25 stores, $11.49",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "11.49",
+      "source" : "usda",
+      "storeCount" : 25
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 22 stores, $12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "12.99",
+      "source" : "usda",
+      "storeCount" : 22
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 205 stores, $5.99–$10.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "8.50",
+      "source" : "usda",
+      "storeCount" : 205
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 34 stores, $12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "12.99",
+      "source" : "usda",
+      "storeCount" : 34
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 37 stores, $12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "12.99",
+      "source" : "usda",
+      "storeCount" : 37
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 76 stores, $7.99–$12.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.44",
+      "source" : "usda",
+      "storeCount" : 76
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 149 stores, $7.49–$9.99",
+      "region" : "Northeast",
+      "itemID" : "sirloin-boneless",
+      "price" : "9.25",
+      "source" : "usda",
+      "storeCount" : 149
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 206 stores, $7.99–$11.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "8.26",
+      "source" : "usda",
+      "storeCount" : 206
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-30",
+      "detail" : "Conventional, 49 stores, $9.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "9.99",
+      "source" : "usda",
+      "storeCount" : 49
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 598 stores, $12.99–$19.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "16.41",
+      "source" : "usda",
+      "storeCount" : 598
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 65 stores, $10.99–$19.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "14.73",
+      "source" : "usda",
+      "storeCount" : 65
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-23",
+      "detail" : "Conventional, 17 stores, $13.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "13.99",
+      "source" : "usda",
+      "storeCount" : 17
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 54 stores, $9.98",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "9.98",
+      "source" : "usda",
+      "storeCount" : 54
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 65 stores, $10.99–$19.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "14.73",
+      "source" : "usda",
+      "storeCount" : 65
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-16",
+      "detail" : "Conventional, 192 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 192
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-09",
+      "detail" : "Conventional, 188 stores, $7.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "7.99",
+      "source" : "usda",
+      "storeCount" : 188
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 169 stores, $14.99–$25.58",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "24.20",
+      "source" : "usda",
+      "storeCount" : 169
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-10-02",
+      "detail" : "Conventional, 14 stores, $12.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "12.99",
+      "source" : "usda",
+      "storeCount" : 14
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 61 stores, $10.99–$13.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "12.91",
+      "source" : "usda",
+      "storeCount" : 61
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 362 stores, $14.99–$17.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "15.40",
+      "source" : "usda",
+      "storeCount" : 362
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-18",
+      "detail" : "Conventional, 55 stores, $10.99–$12.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "11.61",
+      "source" : "usda",
+      "storeCount" : 55
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 38 stores, $10.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "10.99",
+      "source" : "usda",
+      "storeCount" : 38
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-11",
+      "detail" : "Conventional, 210 stores, $11.99–$17.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "15.49",
+      "source" : "usda",
+      "storeCount" : 210
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 3 stores, $17.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "17.99",
+      "source" : "usda",
+      "storeCount" : 3
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 108 stores, $8.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "8.99",
+      "source" : "usda",
+      "storeCount" : 108
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 25 stores, $7.99–$12.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "10.79",
+      "source" : "usda",
+      "storeCount" : 25
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-09-04",
+      "detail" : "Conventional, 27 stores, $21.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "21.99",
+      "source" : "usda",
+      "storeCount" : 27
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 22 stores, $11.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "11.99",
+      "source" : "usda",
+      "storeCount" : 22
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 196 stores, $12.99–$17.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "14.24",
+      "source" : "usda",
+      "storeCount" : 196
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-28",
+      "detail" : "Conventional, 38 stores, $9.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "9.99",
+      "source" : "usda",
+      "storeCount" : 38
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-21",
+      "detail" : "Conventional, 87 stores, $14.99–$16.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "16.12",
+      "source" : "usda",
+      "storeCount" : 87
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 17 stores, $12.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "12.99",
+      "source" : "usda",
+      "storeCount" : 17
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 541 stores, $7.99–$14.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "9.85",
+      "source" : "usda",
+      "storeCount" : 541
+    },
+    {
+      "kind" : "sale",
+      "date" : "2026-08-14",
+      "detail" : "Conventional, 232 stores, $7.99–$14.99",
+      "region" : "Northeast",
+      "itemID" : "strip-boneless",
+      "price" : "8.89",
+      "source" : "usda",
+      "storeCount" : 232
+    }
+  ],
   "items" : [
     {
+      "hint" : "A 1-inch boneless ribeye is usually 12–16 oz; one steak often feeds two.",
+      "servingOunces" : 10,
       "id" : "ribeye-boneless",
       "name" : "Ribeye steak, boneless",
-      "servingOunces" : 10,
-      "hint" : "A 1-inch boneless ribeye is usually 12–16 oz; one steak often feeds two.",
       "unit" : "pound"
     },
     {
+      "hint" : "A 1-inch boneless ribeye is usually 12–16 oz; one steak often feeds two.",
+      "servingOunces" : 10,
       "id" : "ribeye-boneless-grassfed",
       "name" : "Ribeye steak, boneless, grass-fed",
-      "servingOunces" : 10,
-      "hint" : "A 1-inch boneless ribeye is usually 12–16 oz; one steak often feeds two.",
       "unit" : "pound"
     },
     {
+      "hint" : "A 1-inch NY strip is usually 10–14 oz.",
+      "servingOunces" : 10,
       "id" : "strip-boneless",
       "name" : "NY strip steak, boneless",
-      "servingOunces" : 10,
-      "hint" : "A 1-inch NY strip is usually 10–14 oz.",
       "unit" : "pound"
     },
     {
+      "hint" : "A sirloin steak is usually 8–12 oz.",
+      "servingOunces" : 8,
       "id" : "sirloin-boneless",
       "name" : "Sirloin steak, boneless",
-      "servingOunces" : 8,
-      "hint" : "A sirloin steak is usually 8–12 oz.",
       "unit" : "pound"
     },
     {
+      "hint" : "Roasts lose about a third of their weight cooking; a 3 lb roast feeds 6.",
+      "servingOunces" : 8,
       "id" : "chuck-roast-boneless",
       "name" : "Chuck roast, boneless",
-      "servingOunces" : 8,
-      "hint" : "Roasts lose about a third of their weight cooking; a 3 lb roast feeds 6.",
       "unit" : "pound"
     },
     {
+      "hint" : "A burger patty is 4–6 oz; most packages are about 1 lb.",
+      "servingOunces" : 4,
       "id" : "ground-beef-80",
       "name" : "Ground beef 80–89%",
-      "servingOunces" : 4,
-      "hint" : "A burger patty is 4–6 oz; most packages are about 1 lb.",
       "unit" : "pound"
     },
     {
+      "hint" : "One breast is usually 8–12 oz; often enough for two.",
+      "servingOunces" : 6,
       "id" : "chicken-breast-boneless",
       "name" : "Chicken breast, boneless",
-      "servingOunces" : 6,
-      "hint" : "One breast is usually 8–12 oz; often enough for two.",
       "unit" : "pound"
     },
     {
@@ -59,1502 +1556,5 @@
       "name" : "Avocado",
       "unit" : "each"
     }
-  ],
-  "observations" : [
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 192 stores, $1.99",
-      "storeCount" : 192,
-      "kind" : "sale",
-      "price" : "1.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 408 stores, $2.49–$5.99",
-      "storeCount" : 408,
-      "kind" : "sale",
-      "price" : "3.62",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 736 stores, $1.99–$5.99",
-      "storeCount" : 736,
-      "kind" : "sale",
-      "price" : "2.20",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 176 stores, $1.99–$5.99",
-      "storeCount" : 176,
-      "kind" : "sale",
-      "price" : "2.96",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 71 stores, $5.00–$5.99",
-      "storeCount" : 71,
-      "kind" : "sale",
-      "price" : "5.38",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 736 stores, $0.99–$2.49",
-      "storeCount" : 736,
-      "kind" : "sale",
-      "price" : "1.80",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 370 stores, $1.99–$3.99",
-      "storeCount" : 370,
-      "kind" : "sale",
-      "price" : "2.70",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 365 stores, $3.99",
-      "storeCount" : 365,
-      "kind" : "sale",
-      "price" : "3.99",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 387 stores, $1.99–$3.99",
-      "storeCount" : 387,
-      "kind" : "sale",
-      "price" : "2.55",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Chicken breast, boneless",
-      "kind" : "regular",
-      "price" : "3.957",
-      "date" : "2026-09-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 648 stores, $0.99–$2.99",
-      "storeCount" : 648,
-      "kind" : "sale",
-      "price" : "1.96",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 90 stores, $2.49–$3.99",
-      "storeCount" : 90,
-      "kind" : "sale",
-      "price" : "3.31",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Conventional, 236 stores, $1.99–$2.49",
-      "storeCount" : 236,
-      "kind" : "sale",
-      "price" : "2.30",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Chicken breast, boneless",
-      "kind" : "regular",
-      "price" : "3.829",
-      "date" : "2026-08-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chicken-breast-boneless",
-      "detail" : "Chicken breast, boneless",
-      "kind" : "regular",
-      "price" : "3.839",
-      "date" : "2026-07-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 192 stores, $8.99",
-      "storeCount" : 192,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 51 stores, $5.99–$8.99",
-      "storeCount" : 51,
-      "kind" : "sale",
-      "price" : "8.17",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 93 stores, $7.99–$8.99",
-      "storeCount" : 93,
-      "kind" : "sale",
-      "price" : "8.17",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 456 stores, $5.99–$6.99",
-      "storeCount" : 456,
-      "kind" : "sale",
-      "price" : "6.78",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 128 stores, $7.29–$10.99",
-      "storeCount" : 128,
-      "kind" : "sale",
-      "price" : "7.95",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 131 stores, $6.99–$9.99",
-      "storeCount" : 131,
-      "kind" : "sale",
-      "price" : "7.52",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 240 stores, $6.99–$8.99",
-      "storeCount" : 240,
-      "kind" : "sale",
-      "price" : "8.36",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 192 stores, $5.99",
-      "storeCount" : 192,
-      "kind" : "sale",
-      "price" : "5.99",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 336 stores, $7.49–$8.79",
-      "storeCount" : 336,
-      "kind" : "sale",
-      "price" : "8.70",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 201 stores, $5.99–$7.49",
-      "storeCount" : 201,
-      "kind" : "sale",
-      "price" : "6.45",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 440 stores, $5.49–$7.99",
-      "storeCount" : 440,
-      "kind" : "sale",
-      "price" : "7.52",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 92 stores, $6.99–$7.99",
-      "storeCount" : 92,
-      "kind" : "sale",
-      "price" : "7.79",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 104 stores, $6.49",
-      "storeCount" : 104,
-      "kind" : "sale",
-      "price" : "6.49",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 14 stores, $5.99",
-      "storeCount" : 14,
-      "kind" : "sale",
-      "price" : "5.99",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 297 stores, $5.99–$7.99",
-      "storeCount" : 297,
-      "kind" : "sale",
-      "price" : "6.70",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 128 stores, $5.49–$8.99",
-      "storeCount" : 128,
-      "kind" : "sale",
-      "price" : "7.22",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 236 stores, $5.99–$8.99",
-      "storeCount" : 236,
-      "kind" : "sale",
-      "price" : "7.66",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 225 stores, $5.99–$7.99",
-      "storeCount" : 225,
-      "kind" : "sale",
-      "price" : "6.48",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 313 stores, $8.99",
-      "storeCount" : 313,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 582 stores, $5.99–$7.99",
-      "storeCount" : 582,
-      "kind" : "sale",
-      "price" : "7.13",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 935 stores, $5.99–$8.99",
-      "storeCount" : 935,
-      "kind" : "sale",
-      "price" : "6.96",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 401 stores, $5.99–$8.99",
-      "storeCount" : 401,
-      "kind" : "sale",
-      "price" : "7.47",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 177 stores, $3.99–$7.49",
-      "storeCount" : 177,
-      "kind" : "sale",
-      "price" : "6.05",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 37 stores, $7.99",
-      "storeCount" : 37,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 232 stores, $5.99–$8.99",
-      "storeCount" : 232,
-      "kind" : "sale",
-      "price" : "6.21",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 131 stores, $8.99",
-      "storeCount" : 131,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 314 stores, $6.99–$8.99",
-      "storeCount" : 314,
-      "kind" : "sale",
-      "price" : "8.05",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 132 stores, $6.99",
-      "storeCount" : 132,
-      "kind" : "sale",
-      "price" : "6.99",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 238 stores, $6.99–$9.99",
-      "storeCount" : 238,
-      "kind" : "sale",
-      "price" : "9.44",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 105 stores, $6.29",
-      "storeCount" : 105,
-      "kind" : "sale",
-      "price" : "6.29",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 179 stores, $5.99–$6.99",
-      "storeCount" : 179,
-      "kind" : "sale",
-      "price" : "6.40",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "chuck-roast-boneless",
-      "detail" : "Conventional, 357 stores, $7.99",
-      "storeCount" : 357,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 452 stores, $3.99–$7.99",
-      "storeCount" : 452,
-      "kind" : "sale",
-      "price" : "6.01",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 98 stores, $4.99–$8.49",
-      "storeCount" : 98,
-      "kind" : "sale",
-      "price" : "7.38",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 141 stores, $4.99–$6.99",
-      "storeCount" : 141,
-      "kind" : "sale",
-      "price" : "6.09",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 444 stores, $3.49–$8.79",
-      "storeCount" : 444,
-      "kind" : "sale",
-      "price" : "5.05",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 808 stores, $3.99–$10.99",
-      "storeCount" : 808,
-      "kind" : "sale",
-      "price" : "6.75",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 164 stores, $5.99–$6.99",
-      "storeCount" : 164,
-      "kind" : "sale",
-      "price" : "6.76",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 973 stores, $3.49–$6.59",
-      "storeCount" : 973,
-      "kind" : "sale",
-      "price" : "5.45",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 127 stores, $7.99",
-      "storeCount" : 127,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 973 stores, $3.99–$6.99",
-      "storeCount" : 973,
-      "kind" : "sale",
-      "price" : "5.95",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 20 stores, $6.99",
-      "storeCount" : 20,
-      "kind" : "sale",
-      "price" : "6.99",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 23 stores, $5.99",
-      "storeCount" : 23,
-      "kind" : "sale",
-      "price" : "5.99",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 313 stores, $5.99",
-      "storeCount" : 313,
-      "kind" : "sale",
-      "price" : "5.99",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 743 stores, $4.59–$7.99",
-      "storeCount" : 743,
-      "kind" : "sale",
-      "price" : "5.64",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 54 stores, $4.99",
-      "storeCount" : 54,
-      "kind" : "sale",
-      "price" : "4.99",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 342 stores, $3.99–$7.51",
-      "storeCount" : 342,
-      "kind" : "sale",
-      "price" : "6.51",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 25 stores, $6.79",
-      "storeCount" : 25,
-      "kind" : "sale",
-      "price" : "6.79",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 37 stores, $6.99",
-      "storeCount" : 37,
-      "kind" : "sale",
-      "price" : "6.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 201 stores, $3.99–$6.79",
-      "storeCount" : 201,
-      "kind" : "sale",
-      "price" : "5.44",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Ground beef, 100% beef (all lean levels)",
-      "kind" : "regular",
-      "price" : "7.016",
-      "date" : "2026-09-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 235 stores, $3.99–$8.79",
-      "storeCount" : 235,
-      "kind" : "sale",
-      "price" : "6.77",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 493 stores, $4.99–$6.79",
-      "storeCount" : 493,
-      "kind" : "sale",
-      "price" : "5.92",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 37 stores, $6.99",
-      "storeCount" : 37,
-      "kind" : "sale",
-      "price" : "6.99",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 20 stores, $6.99",
-      "storeCount" : 20,
-      "kind" : "sale",
-      "price" : "6.99",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Conventional, 357 stores, $3.99–$8.79",
-      "storeCount" : 357,
-      "kind" : "sale",
-      "price" : "6.92",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Ground beef, 100% beef (all lean levels)",
-      "kind" : "regular",
-      "price" : "6.989",
-      "date" : "2026-08-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ground-beef-80",
-      "detail" : "Ground beef, 100% beef (all lean levels)",
-      "kind" : "regular",
-      "price" : "6.896",
-      "date" : "2026-07-01",
-      "source" : "bls"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 27 stores, $24.99",
-      "storeCount" : 27,
-      "kind" : "sale",
-      "price" : "24.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 385 stores, $19.99",
-      "storeCount" : 385,
-      "kind" : "sale",
-      "price" : "19.99",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 192 stores, $8.99",
-      "storeCount" : 192,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 23 stores, $22.99",
-      "storeCount" : 23,
-      "kind" : "sale",
-      "price" : "22.99",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 212 stores, $8.99–$13.32",
-      "storeCount" : 212,
-      "kind" : "sale",
-      "price" : "9.40",
-      "date" : "2026-09-25",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 50 stores, $13.99–$24.99",
-      "storeCount" : 50,
-      "kind" : "sale",
-      "price" : "19.93",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 26 stores, $10.99–$22.99",
-      "storeCount" : 26,
-      "kind" : "sale",
-      "price" : "21.61",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 73 stores, $15.99",
-      "storeCount" : 73,
-      "kind" : "sale",
-      "price" : "15.99",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 77 stores, $11.99–$22.99",
-      "storeCount" : 77,
-      "kind" : "sale",
-      "price" : "15.28",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 324 stores, $9.69–$11.99",
-      "storeCount" : 324,
-      "kind" : "sale",
-      "price" : "11.05",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless",
-      "detail" : "Conventional, 38 stores, $14.99",
-      "storeCount" : 38,
-      "kind" : "sale",
-      "price" : "14.99",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 479 stores, $23.98–$35.98",
-      "storeCount" : 479,
-      "kind" : "sale",
-      "price" : "25.93",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 824 stores, $11.18–$22.38",
-      "storeCount" : 824,
-      "kind" : "sale",
-      "price" : "17.40",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 19 stores, $17.99",
-      "storeCount" : 19,
-      "kind" : "sale",
-      "price" : "17.99",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 590 stores, $22.38–$23.99",
-      "storeCount" : 590,
-      "kind" : "sale",
-      "price" : "23.13",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 379 stores, $12.99–$25.58",
-      "storeCount" : 379,
-      "kind" : "sale",
-      "price" : "14.57",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 73 stores, $35.98",
-      "storeCount" : 73,
-      "kind" : "sale",
-      "price" : "35.98",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 688 stores, $11.99–$17.58",
-      "storeCount" : 688,
-      "kind" : "sale",
-      "price" : "13.42",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 382 stores, $22.38–$25.58",
-      "storeCount" : 382,
-      "kind" : "sale",
-      "price" : "25.40",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 656 stores, $8.99–$25.58",
-      "storeCount" : 656,
-      "kind" : "sale",
-      "price" : "18.57",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "ribeye-boneless-grassfed",
-      "detail" : "ABF, Grass Fed, 660 stores, $20.78–$35.98",
-      "storeCount" : 660,
-      "kind" : "sale",
-      "price" : "24.02",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 289 stores, $7.99–$11.99",
-      "storeCount" : 289,
-      "kind" : "sale",
-      "price" : "9.30",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 131 stores, $10.99",
-      "storeCount" : 131,
-      "kind" : "sale",
-      "price" : "10.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 132 stores, $7.99",
-      "storeCount" : 132,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 38 stores, $6.49",
-      "storeCount" : 38,
-      "kind" : "sale",
-      "price" : "6.49",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 51 stores, $7.99–$9.99",
-      "storeCount" : 51,
-      "kind" : "sale",
-      "price" : "9.44",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 150 stores, $9.99–$11.99",
-      "storeCount" : 150,
-      "kind" : "sale",
-      "price" : "11.17",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 17 stores, $8.99",
-      "storeCount" : 17,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 147 stores, $10.99",
-      "storeCount" : 147,
-      "kind" : "sale",
-      "price" : "10.99",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 19 stores, $7.99",
-      "storeCount" : 19,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 14 stores, $8.99",
-      "storeCount" : 14,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 17 stores, $9.99",
-      "storeCount" : 17,
-      "kind" : "sale",
-      "price" : "9.99",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 98 stores, $7.99–$11.49",
-      "storeCount" : 98,
-      "kind" : "sale",
-      "price" : "8.88",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 188 stores, $9.99–$12.99",
-      "storeCount" : 188,
-      "kind" : "sale",
-      "price" : "10.64",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 37 stores, $9.99",
-      "storeCount" : 37,
-      "kind" : "sale",
-      "price" : "9.99",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 44 stores, $8.99–$11.49",
-      "storeCount" : 44,
-      "kind" : "sale",
-      "price" : "10.41",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 41 stores, $5.99–$13.59",
-      "storeCount" : 41,
-      "kind" : "sale",
-      "price" : "10.07",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 127 stores, $9.99",
-      "storeCount" : 127,
-      "kind" : "sale",
-      "price" : "9.99",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 330 stores, $9.99–$10.99",
-      "storeCount" : 330,
-      "kind" : "sale",
-      "price" : "10.94",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 436 stores, $5.99–$9.99",
-      "storeCount" : 436,
-      "kind" : "sale",
-      "price" : "9.53",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 147 stores, $10.99",
-      "storeCount" : 147,
-      "kind" : "sale",
-      "price" : "10.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 196 stores, $7.99–$11.99",
-      "storeCount" : 196,
-      "kind" : "sale",
-      "price" : "11.54",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 158 stores, $10.99–$12.99",
-      "storeCount" : 158,
-      "kind" : "sale",
-      "price" : "11.33",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 25 stores, $11.49",
-      "storeCount" : 25,
-      "kind" : "sale",
-      "price" : "11.49",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 22 stores, $12.99",
-      "storeCount" : 22,
-      "kind" : "sale",
-      "price" : "12.99",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 205 stores, $5.99–$10.99",
-      "storeCount" : 205,
-      "kind" : "sale",
-      "price" : "8.50",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 34 stores, $12.99",
-      "storeCount" : 34,
-      "kind" : "sale",
-      "price" : "12.99",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 37 stores, $12.99",
-      "storeCount" : 37,
-      "kind" : "sale",
-      "price" : "12.99",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 76 stores, $7.99–$12.99",
-      "storeCount" : 76,
-      "kind" : "sale",
-      "price" : "9.44",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "sirloin-boneless",
-      "detail" : "Conventional, 149 stores, $7.49–$9.99",
-      "storeCount" : 149,
-      "kind" : "sale",
-      "price" : "9.25",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 206 stores, $7.99–$11.99",
-      "storeCount" : 206,
-      "kind" : "sale",
-      "price" : "8.26",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 49 stores, $9.99",
-      "storeCount" : 49,
-      "kind" : "sale",
-      "price" : "9.99",
-      "date" : "2026-10-30",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 598 stores, $12.99–$19.99",
-      "storeCount" : 598,
-      "kind" : "sale",
-      "price" : "16.41",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 65 stores, $10.99–$19.99",
-      "storeCount" : 65,
-      "kind" : "sale",
-      "price" : "14.73",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 17 stores, $13.99",
-      "storeCount" : 17,
-      "kind" : "sale",
-      "price" : "13.99",
-      "date" : "2026-10-23",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 54 stores, $9.98",
-      "storeCount" : 54,
-      "kind" : "sale",
-      "price" : "9.98",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 65 stores, $10.99–$19.99",
-      "storeCount" : 65,
-      "kind" : "sale",
-      "price" : "14.73",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 192 stores, $7.99",
-      "storeCount" : 192,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-10-16",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 188 stores, $7.99",
-      "storeCount" : 188,
-      "kind" : "sale",
-      "price" : "7.99",
-      "date" : "2026-10-09",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 169 stores, $14.99–$25.58",
-      "storeCount" : 169,
-      "kind" : "sale",
-      "price" : "24.20",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 14 stores, $12.99",
-      "storeCount" : 14,
-      "kind" : "sale",
-      "price" : "12.99",
-      "date" : "2026-10-02",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 61 stores, $10.99–$13.99",
-      "storeCount" : 61,
-      "kind" : "sale",
-      "price" : "12.91",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 362 stores, $14.99–$17.99",
-      "storeCount" : 362,
-      "kind" : "sale",
-      "price" : "15.40",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 55 stores, $10.99–$12.99",
-      "storeCount" : 55,
-      "kind" : "sale",
-      "price" : "11.61",
-      "date" : "2026-09-18",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 38 stores, $10.99",
-      "storeCount" : 38,
-      "kind" : "sale",
-      "price" : "10.99",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 210 stores, $11.99–$17.99",
-      "storeCount" : 210,
-      "kind" : "sale",
-      "price" : "15.49",
-      "date" : "2026-09-11",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 3 stores, $17.99",
-      "storeCount" : 3,
-      "kind" : "sale",
-      "price" : "17.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 108 stores, $8.99",
-      "storeCount" : 108,
-      "kind" : "sale",
-      "price" : "8.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 25 stores, $7.99–$12.99",
-      "storeCount" : 25,
-      "kind" : "sale",
-      "price" : "10.79",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 27 stores, $21.99",
-      "storeCount" : 27,
-      "kind" : "sale",
-      "price" : "21.99",
-      "date" : "2026-09-04",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 22 stores, $11.99",
-      "storeCount" : 22,
-      "kind" : "sale",
-      "price" : "11.99",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 196 stores, $12.99–$17.99",
-      "storeCount" : 196,
-      "kind" : "sale",
-      "price" : "14.24",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 38 stores, $9.99",
-      "storeCount" : 38,
-      "kind" : "sale",
-      "price" : "9.99",
-      "date" : "2026-08-28",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 87 stores, $14.99–$16.99",
-      "storeCount" : 87,
-      "kind" : "sale",
-      "price" : "16.12",
-      "date" : "2026-08-21",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 17 stores, $12.99",
-      "storeCount" : 17,
-      "kind" : "sale",
-      "price" : "12.99",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 541 stores, $7.99–$14.99",
-      "storeCount" : 541,
-      "kind" : "sale",
-      "price" : "9.85",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    },
-    {
-      "region" : "Northeast",
-      "itemID" : "strip-boneless",
-      "detail" : "Conventional, 232 stores, $7.99–$14.99",
-      "storeCount" : 232,
-      "kind" : "sale",
-      "price" : "8.89",
-      "date" : "2026-08-14",
-      "source" : "usda"
-    }
-  ],
-  "generatedAt" : "2026-11-03"
+  ]
 }
