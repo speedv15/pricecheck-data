@@ -211,7 +211,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 192 stores, $8.99",
+      "detail" : "Branded Choice, Conventional, 192 stores, $8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -221,7 +222,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 51 stores, $5.99–$8.99",
+      "detail" : "No grade stated, Conventional, 51 stores, $5.99–$8.99",
+      "grade" : "ungraded",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.17",
@@ -231,7 +233,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 93 stores, $7.99–$8.99",
+      "detail" : "Choice, Conventional, 93 stores, $7.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.17",
@@ -241,7 +244,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 456 stores, $5.99–$6.99",
+      "detail" : "Choice, Conventional, 456 stores, $5.99–$6.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.78",
@@ -251,7 +255,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 128 stores, $7.29–$10.99",
+      "detail" : "Branded Prime, Conventional, 128 stores, $7.29–$10.99",
+      "grade" : "prime",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.95",
@@ -261,7 +266,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 131 stores, $6.99–$9.99",
+      "detail" : "Branded Choice, Conventional, 131 stores, $6.99–$9.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.52",
@@ -271,7 +277,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 240 stores, $6.99–$8.99",
+      "detail" : "Choice, Conventional, 240 stores, $6.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.36",
@@ -281,7 +288,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 192 stores, $5.99",
+      "detail" : "Branded Choice, Conventional, 192 stores, $5.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "5.99",
@@ -291,7 +299,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 336 stores, $7.49–$8.79",
+      "detail" : "Branded Prime, Conventional, 336 stores, $7.49–$8.79",
+      "grade" : "prime",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.70",
@@ -301,7 +310,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 201 stores, $5.99–$7.49",
+      "detail" : "Branded Choice, Conventional, 201 stores, $5.99–$7.49",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.45",
@@ -311,7 +321,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 440 stores, $5.49–$7.99",
+      "detail" : "Choice, Conventional, 440 stores, $5.49–$7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.52",
@@ -321,7 +332,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 92 stores, $6.99–$7.99",
+      "detail" : "No grade stated, Conventional, 92 stores, $6.99–$7.99",
+      "grade" : "ungraded",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.79",
@@ -331,7 +343,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 104 stores, $6.49",
+      "detail" : "Prime, Conventional, 104 stores, $6.49",
+      "grade" : "prime",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.49",
@@ -341,7 +354,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 14 stores, $5.99",
+      "detail" : "No grade stated, Conventional, 14 stores, $5.99",
+      "grade" : "ungraded",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "5.99",
@@ -351,7 +365,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 297 stores, $5.99–$7.99",
+      "detail" : "Branded Choice, Conventional, 297 stores, $5.99–$7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.70",
@@ -361,7 +376,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 128 stores, $5.49–$8.99",
+      "detail" : "Choice, Conventional, 128 stores, $5.49–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.22",
@@ -371,7 +387,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 236 stores, $5.99–$8.99",
+      "detail" : "Branded Choice, Conventional, 236 stores, $5.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.66",
@@ -381,7 +398,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 225 stores, $5.99–$7.99",
+      "detail" : "Choice, Conventional, 225 stores, $5.99–$7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.48",
@@ -391,7 +409,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 313 stores, $8.99",
+      "detail" : "Branded Prime, Conventional, 313 stores, $8.99",
+      "grade" : "prime",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -401,7 +420,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 582 stores, $5.99–$7.99",
+      "detail" : "Branded Choice, Conventional, 582 stores, $5.99–$7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.13",
@@ -411,7 +431,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 935 stores, $5.99–$8.99",
+      "detail" : "Choice, Conventional, 935 stores, $5.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.96",
@@ -421,7 +442,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 401 stores, $5.99–$8.99",
+      "detail" : "Branded Choice, Conventional, 401 stores, $5.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.47",
@@ -431,7 +453,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 177 stores, $3.99–$7.49",
+      "detail" : "Choice, Conventional, 177 stores, $3.99–$7.49",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.05",
@@ -441,7 +464,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 37 stores, $7.99",
+      "detail" : "Choice, Conventional, 37 stores, $7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -451,7 +475,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 232 stores, $5.99–$8.99",
+      "detail" : "Branded Choice, Conventional, 232 stores, $5.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.21",
@@ -461,7 +486,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 131 stores, $8.99",
+      "detail" : "Branded Choice, Conventional, 131 stores, $8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -471,7 +497,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 314 stores, $6.99–$8.99",
+      "detail" : "Choice, Conventional, 314 stores, $6.99–$8.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "8.05",
@@ -481,7 +508,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 132 stores, $6.99",
+      "detail" : "No grade stated, Conventional, 132 stores, $6.99",
+      "grade" : "ungraded",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.99",
@@ -491,7 +519,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 238 stores, $6.99–$9.99",
+      "detail" : "Choice, Conventional, 238 stores, $6.99–$9.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "9.44",
@@ -501,7 +530,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 105 stores, $6.29",
+      "detail" : "Branded Prime, Conventional, 105 stores, $6.29",
+      "grade" : "prime",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.29",
@@ -511,7 +541,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 179 stores, $5.99–$6.99",
+      "detail" : "Branded Choice, Conventional, 179 stores, $5.99–$6.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "6.40",
@@ -521,7 +552,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 357 stores, $7.99",
+      "detail" : "Branded Choice, Conventional, 357 stores, $7.99",
+      "grade" : "choice",
       "itemID" : "chuck-roast-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -531,7 +563,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 452 stores, $3.99–$7.99",
+      "detail" : "No grade stated, Conventional, 452 stores, $3.99–$7.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.01",
@@ -541,7 +574,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 98 stores, $4.99–$8.49",
+      "detail" : "No grade stated, Conventional, 98 stores, $4.99–$8.49",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "7.38",
@@ -551,7 +585,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 141 stores, $4.99–$6.99",
+      "detail" : "No grade stated, Conventional, 141 stores, $4.99–$6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.09",
@@ -561,7 +596,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 444 stores, $3.49–$8.79",
+      "detail" : "Branded, no grade stated, Conventional, 444 stores, $3.49–$8.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.05",
@@ -571,7 +607,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 808 stores, $3.99–$10.99",
+      "detail" : "No grade stated, Conventional, 808 stores, $3.99–$10.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.75",
@@ -581,7 +618,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 164 stores, $5.99–$6.99",
+      "detail" : "Branded, no grade stated, Conventional, 164 stores, $5.99–$6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.76",
@@ -591,7 +629,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 973 stores, $3.49–$6.59",
+      "detail" : "No grade stated, Conventional, 973 stores, $3.49–$6.59",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.45",
@@ -601,7 +640,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 127 stores, $7.99",
+      "detail" : "Branded, no grade stated, Conventional, 127 stores, $7.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "7.99",
@@ -611,7 +651,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 973 stores, $3.99–$6.99",
+      "detail" : "No grade stated, Conventional, 973 stores, $3.99–$6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.95",
@@ -621,7 +662,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 20 stores, $6.99",
+      "detail" : "Branded Choice, Conventional, 20 stores, $6.99",
+      "grade" : "choice",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.99",
@@ -631,7 +673,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 23 stores, $5.99",
+      "detail" : "Branded, no grade stated, Conventional, 23 stores, $5.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.99",
@@ -641,7 +684,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 313 stores, $5.99",
+      "detail" : "Branded, no grade stated, Conventional, 313 stores, $5.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.99",
@@ -651,7 +695,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 743 stores, $4.59–$7.99",
+      "detail" : "No grade stated, Conventional, 743 stores, $4.59–$7.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.64",
@@ -661,7 +706,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 54 stores, $4.99",
+      "detail" : "Choice, Conventional, 54 stores, $4.99",
+      "grade" : "choice",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "4.99",
@@ -671,7 +717,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 342 stores, $3.99–$7.51",
+      "detail" : "No grade stated, Conventional, 342 stores, $3.99–$7.51",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.51",
@@ -681,7 +728,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 25 stores, $6.79",
+      "detail" : "Branded, no grade stated, Conventional, 25 stores, $6.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.79",
@@ -691,7 +739,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 37 stores, $6.99",
+      "detail" : "Branded, no grade stated, Conventional, 37 stores, $6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.99",
@@ -701,7 +750,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 201 stores, $3.99–$6.79",
+      "detail" : "No grade stated, Conventional, 201 stores, $3.99–$6.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.44",
@@ -720,7 +770,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 235 stores, $3.99–$8.79",
+      "detail" : "No grade stated, Conventional, 235 stores, $3.99–$8.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.77",
@@ -730,7 +781,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 493 stores, $4.99–$6.79",
+      "detail" : "No grade stated, Conventional, 493 stores, $4.99–$6.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "5.92",
@@ -740,7 +792,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 37 stores, $6.99",
+      "detail" : "Branded, no grade stated, Conventional, 37 stores, $6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.99",
@@ -750,7 +803,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 20 stores, $6.99",
+      "detail" : "Branded, no grade stated, Conventional, 20 stores, $6.99",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.99",
@@ -760,7 +814,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 357 stores, $3.99–$8.79",
+      "detail" : "No grade stated, Conventional, 357 stores, $3.99–$8.79",
+      "grade" : "ungraded",
       "itemID" : "ground-beef-80",
       "kind" : "sale",
       "price" : "6.92",
@@ -788,7 +843,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 27 stores, $24.99",
+      "detail" : "Branded Choice, Conventional, 27 stores, $24.99",
+      "grade" : "choice",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "24.99",
@@ -798,7 +854,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 385 stores, $19.99",
+      "detail" : "Choice, Conventional, 385 stores, $19.99",
+      "grade" : "choice",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "19.99",
@@ -808,7 +865,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 192 stores, $8.99",
+      "detail" : "No grade stated, Conventional, 192 stores, $8.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -818,7 +876,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 23 stores, $22.99",
+      "detail" : "No grade stated, Conventional, 23 stores, $22.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "22.99",
@@ -828,7 +887,8 @@
     },
     {
       "date" : "2026-09-25",
-      "detail" : "Conventional, 212 stores, $8.99–$13.32",
+      "detail" : "No grade stated, Conventional, 212 stores, $8.99–$13.32",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "9.40",
@@ -838,7 +898,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 50 stores, $13.99–$24.99",
+      "detail" : "Branded Choice, Conventional, 50 stores, $13.99–$24.99",
+      "grade" : "choice",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "19.93",
@@ -848,7 +909,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 26 stores, $10.99–$22.99",
+      "detail" : "No grade stated, Conventional, 26 stores, $10.99–$22.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "21.61",
@@ -858,7 +920,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 73 stores, $15.99",
+      "detail" : "Choice, Conventional, 73 stores, $15.99",
+      "grade" : "choice",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "15.99",
@@ -868,7 +931,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 77 stores, $11.99–$22.99",
+      "detail" : "No grade stated, Conventional, 77 stores, $11.99–$22.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "15.28",
@@ -878,7 +942,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 324 stores, $9.69–$11.99",
+      "detail" : "No grade stated, Conventional, 324 stores, $9.69–$11.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "11.05",
@@ -888,7 +953,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 38 stores, $14.99",
+      "detail" : "Choice, Conventional, 38 stores, $14.99",
+      "grade" : "choice",
       "itemID" : "ribeye-boneless",
       "kind" : "sale",
       "price" : "14.99",
@@ -898,7 +964,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "ABF, Grass Fed, 479 stores, $23.98–$35.98",
+      "detail" : "No grade stated, ABF, Grass Fed, 479 stores, $23.98–$35.98",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "25.93",
@@ -908,7 +975,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "ABF, Grass Fed, 824 stores, $11.18–$22.38",
+      "detail" : "No grade stated, ABF, Grass Fed, 824 stores, $11.18–$22.38",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "17.40",
@@ -918,7 +986,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "ABF, Grass Fed, 19 stores, $17.99",
+      "detail" : "No grade stated, ABF, Grass Fed, 19 stores, $17.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "17.99",
@@ -928,7 +997,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "ABF, Grass Fed, 590 stores, $22.38–$23.99",
+      "detail" : "No grade stated, ABF, Grass Fed, 590 stores, $22.38–$23.99",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "23.13",
@@ -938,7 +1008,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "ABF, Grass Fed, 379 stores, $12.99–$25.58",
+      "detail" : "No grade stated, ABF, Grass Fed, 379 stores, $12.99–$25.58",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "14.57",
@@ -948,7 +1019,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "ABF, Grass Fed, 73 stores, $35.98",
+      "detail" : "No grade stated, ABF, Grass Fed, 73 stores, $35.98",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "35.98",
@@ -958,7 +1030,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "ABF, Grass Fed, 688 stores, $11.99–$17.58",
+      "detail" : "No grade stated, ABF, Grass Fed, 688 stores, $11.99–$17.58",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "13.42",
@@ -968,7 +1041,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "ABF, Grass Fed, 382 stores, $22.38–$25.58",
+      "detail" : "No grade stated, ABF, Grass Fed, 382 stores, $22.38–$25.58",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "25.40",
@@ -978,7 +1052,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "ABF, Grass Fed, 656 stores, $8.99–$25.58",
+      "detail" : "No grade stated, ABF, Grass Fed, 656 stores, $8.99–$25.58",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "18.57",
@@ -988,7 +1063,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "ABF, Grass Fed, 660 stores, $20.78–$35.98",
+      "detail" : "No grade stated, ABF, Grass Fed, 660 stores, $20.78–$35.98",
+      "grade" : "ungraded",
       "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
       "price" : "24.02",
@@ -998,7 +1074,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 289 stores, $7.99–$11.99",
+      "detail" : "Choice, Conventional, 289 stores, $7.99–$11.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.30",
@@ -1008,7 +1085,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 131 stores, $10.99",
+      "detail" : "Branded Choice, Conventional, 131 stores, $10.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.99",
@@ -1018,7 +1096,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 132 stores, $7.99",
+      "detail" : "No grade stated, Conventional, 132 stores, $7.99",
+      "grade" : "ungraded",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -1028,7 +1107,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 38 stores, $6.49",
+      "detail" : "Branded Choice, Conventional, 38 stores, $6.49",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "6.49",
@@ -1038,7 +1118,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 51 stores, $7.99–$9.99",
+      "detail" : "No grade stated, Conventional, 51 stores, $7.99–$9.99",
+      "grade" : "ungraded",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.44",
@@ -1048,7 +1129,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 150 stores, $9.99–$11.99",
+      "detail" : "Choice, Conventional, 150 stores, $9.99–$11.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "11.17",
@@ -1058,7 +1140,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 17 stores, $8.99",
+      "detail" : "Branded Choice, Conventional, 17 stores, $8.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -1068,7 +1151,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 147 stores, $10.99",
+      "detail" : "Choice, Conventional, 147 stores, $10.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.99",
@@ -1078,7 +1162,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 19 stores, $7.99",
+      "detail" : "Choice, Conventional, 19 stores, $7.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -1088,7 +1173,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 14 stores, $8.99",
+      "detail" : "No grade stated, Conventional, 14 stores, $8.99",
+      "grade" : "ungraded",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -1098,7 +1184,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 17 stores, $9.99",
+      "detail" : "Branded Choice, Conventional, 17 stores, $9.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.99",
@@ -1108,7 +1195,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 98 stores, $7.99–$11.49",
+      "detail" : "Choice, Conventional, 98 stores, $7.99–$11.49",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "8.88",
@@ -1118,7 +1206,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 188 stores, $9.99–$12.99",
+      "detail" : "Choice, Conventional, 188 stores, $9.99–$12.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.64",
@@ -1128,7 +1217,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 37 stores, $9.99",
+      "detail" : "Select, Conventional, 37 stores, $9.99",
+      "grade" : "select",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.99",
@@ -1138,7 +1228,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 44 stores, $8.99–$11.49",
+      "detail" : "Choice, Conventional, 44 stores, $8.99–$11.49",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.41",
@@ -1148,7 +1239,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 41 stores, $5.99–$13.59",
+      "detail" : "Choice, Conventional, 41 stores, $5.99–$13.59",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.07",
@@ -1158,7 +1250,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 127 stores, $9.99",
+      "detail" : "Choice, Conventional, 127 stores, $9.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.99",
@@ -1168,7 +1261,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 330 stores, $9.99–$10.99",
+      "detail" : "Branded Choice, Conventional, 330 stores, $9.99–$10.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.94",
@@ -1178,7 +1272,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 436 stores, $5.99–$9.99",
+      "detail" : "Choice, Conventional, 436 stores, $5.99–$9.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.53",
@@ -1188,7 +1283,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 147 stores, $10.99",
+      "detail" : "Choice, Conventional, 147 stores, $10.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "10.99",
@@ -1198,7 +1294,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 196 stores, $7.99–$11.99",
+      "detail" : "Choice, Conventional, 196 stores, $7.99–$11.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "11.54",
@@ -1208,7 +1305,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 158 stores, $10.99–$12.99",
+      "detail" : "Branded Choice, Conventional, 158 stores, $10.99–$12.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "11.33",
@@ -1218,7 +1316,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 25 stores, $11.49",
+      "detail" : "Choice, Conventional, 25 stores, $11.49",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "11.49",
@@ -1228,7 +1327,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 22 stores, $12.99",
+      "detail" : "Choice, Conventional, 22 stores, $12.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "12.99",
@@ -1238,7 +1338,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 205 stores, $5.99–$10.99",
+      "detail" : "Choice, Conventional, 205 stores, $5.99–$10.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "8.50",
@@ -1248,7 +1349,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 34 stores, $12.99",
+      "detail" : "Branded Choice, Conventional, 34 stores, $12.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "12.99",
@@ -1258,7 +1360,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 37 stores, $12.99",
+      "detail" : "Select, Conventional, 37 stores, $12.99",
+      "grade" : "select",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "12.99",
@@ -1268,7 +1371,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 76 stores, $7.99–$12.99",
+      "detail" : "Choice, Conventional, 76 stores, $7.99–$12.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.44",
@@ -1278,7 +1382,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 149 stores, $7.49–$9.99",
+      "detail" : "Branded Choice, Conventional, 149 stores, $7.49–$9.99",
+      "grade" : "choice",
       "itemID" : "sirloin-boneless",
       "kind" : "sale",
       "price" : "9.25",
@@ -1288,7 +1393,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 206 stores, $7.99–$11.99",
+      "detail" : "No grade stated, Conventional, 206 stores, $7.99–$11.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "8.26",
@@ -1298,7 +1404,8 @@
     },
     {
       "date" : "2026-10-30",
-      "detail" : "Conventional, 49 stores, $9.99",
+      "detail" : "Choice, Conventional, 49 stores, $9.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "9.99",
@@ -1308,7 +1415,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 598 stores, $12.99–$19.99",
+      "detail" : "Choice, Conventional, 598 stores, $12.99–$19.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "16.41",
@@ -1318,7 +1426,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 65 stores, $10.99–$19.99",
+      "detail" : "Branded Choice, Conventional, 65 stores, $10.99–$19.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "14.73",
@@ -1328,7 +1437,8 @@
     },
     {
       "date" : "2026-10-23",
-      "detail" : "Conventional, 17 stores, $13.99",
+      "detail" : "No grade stated, Conventional, 17 stores, $13.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "13.99",
@@ -1338,7 +1448,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 54 stores, $9.98",
+      "detail" : "Select, Conventional, 54 stores, $9.98",
+      "grade" : "select",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "9.98",
@@ -1348,7 +1459,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 65 stores, $10.99–$19.99",
+      "detail" : "Branded Choice, Conventional, 65 stores, $10.99–$19.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "14.73",
@@ -1358,7 +1470,8 @@
     },
     {
       "date" : "2026-10-16",
-      "detail" : "Conventional, 192 stores, $7.99",
+      "detail" : "No grade stated, Conventional, 192 stores, $7.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -1368,7 +1481,8 @@
     },
     {
       "date" : "2026-10-09",
-      "detail" : "Conventional, 188 stores, $7.99",
+      "detail" : "Choice, Conventional, 188 stores, $7.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "7.99",
@@ -1378,7 +1492,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 169 stores, $14.99–$25.58",
+      "detail" : "Choice, Conventional, 169 stores, $14.99–$25.58",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "24.20",
@@ -1388,7 +1503,8 @@
     },
     {
       "date" : "2026-10-02",
-      "detail" : "Conventional, 14 stores, $12.99",
+      "detail" : "No grade stated, Conventional, 14 stores, $12.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "12.99",
@@ -1398,7 +1514,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 61 stores, $10.99–$13.99",
+      "detail" : "No grade stated, Conventional, 61 stores, $10.99–$13.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "12.91",
@@ -1408,7 +1525,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 362 stores, $14.99–$17.99",
+      "detail" : "Choice, Conventional, 362 stores, $14.99–$17.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "15.40",
@@ -1418,7 +1536,8 @@
     },
     {
       "date" : "2026-09-18",
-      "detail" : "Conventional, 55 stores, $10.99–$12.99",
+      "detail" : "Branded Choice, Conventional, 55 stores, $10.99–$12.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "11.61",
@@ -1428,7 +1547,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 38 stores, $10.99",
+      "detail" : "Branded Choice, Conventional, 38 stores, $10.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "10.99",
@@ -1438,7 +1558,8 @@
     },
     {
       "date" : "2026-09-11",
-      "detail" : "Conventional, 210 stores, $11.99–$17.99",
+      "detail" : "Choice, Conventional, 210 stores, $11.99–$17.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "15.49",
@@ -1448,7 +1569,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 3 stores, $17.99",
+      "detail" : "Branded Prime, Conventional, 3 stores, $17.99",
+      "grade" : "prime",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "17.99",
@@ -1458,7 +1580,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 108 stores, $8.99",
+      "detail" : "Choice, Conventional, 108 stores, $8.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "8.99",
@@ -1468,7 +1591,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 25 stores, $7.99–$12.99",
+      "detail" : "No grade stated, Conventional, 25 stores, $7.99–$12.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "10.79",
@@ -1478,7 +1602,8 @@
     },
     {
       "date" : "2026-09-04",
-      "detail" : "Conventional, 27 stores, $21.99",
+      "detail" : "Branded Choice, Conventional, 27 stores, $21.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "21.99",
@@ -1488,7 +1613,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 22 stores, $11.99",
+      "detail" : "No grade stated, Conventional, 22 stores, $11.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "11.99",
@@ -1498,7 +1624,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 196 stores, $12.99–$17.99",
+      "detail" : "Choice, Conventional, 196 stores, $12.99–$17.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "14.24",
@@ -1508,7 +1635,8 @@
     },
     {
       "date" : "2026-08-28",
-      "detail" : "Conventional, 38 stores, $9.99",
+      "detail" : "Branded Choice, Conventional, 38 stores, $9.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "9.99",
@@ -1518,7 +1646,8 @@
     },
     {
       "date" : "2026-08-21",
-      "detail" : "Conventional, 87 stores, $14.99–$16.99",
+      "detail" : "Choice, Conventional, 87 stores, $14.99–$16.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "16.12",
@@ -1528,7 +1657,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 17 stores, $12.99",
+      "detail" : "Select, Conventional, 17 stores, $12.99",
+      "grade" : "select",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "12.99",
@@ -1538,7 +1668,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 541 stores, $7.99–$14.99",
+      "detail" : "Choice, Conventional, 541 stores, $7.99–$14.99",
+      "grade" : "choice",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "9.85",
@@ -1548,7 +1679,8 @@
     },
     {
       "date" : "2026-08-14",
-      "detail" : "Conventional, 232 stores, $7.99–$14.99",
+      "detail" : "No grade stated, Conventional, 232 stores, $7.99–$14.99",
+      "grade" : "ungraded",
       "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "8.89",
