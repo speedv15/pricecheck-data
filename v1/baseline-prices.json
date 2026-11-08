@@ -1,7 +1,12 @@
 {
-  "generatedAt" : "2026-11-07",
+  "generatedAt" : "2026-11-08",
   "items" : [
     {
+      "gradeSpread" : {
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "prime" : "1.215",
+        "select" : "0.866"
+      },
       "hint" : "A 1-inch boneless ribeye is usually 12–16 oz; one steak often feeds two.",
       "id" : "ribeye-boneless",
       "name" : "Ribeye steak, boneless",
@@ -16,6 +21,11 @@
       "unit" : "pound"
     },
     {
+      "gradeSpread" : {
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "prime" : "1.403",
+        "select" : "0.809"
+      },
       "hint" : "A 1-inch NY strip is usually 10–14 oz.",
       "id" : "strip-boneless",
       "name" : "NY strip steak, boneless",
@@ -23,6 +33,11 @@
       "unit" : "pound"
     },
     {
+      "gradeSpread" : {
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "prime" : "1.139",
+        "select" : "0.966"
+      },
       "hint" : "A sirloin steak is usually 8–12 oz.",
       "id" : "sirloin-boneless",
       "name" : "Sirloin steak, boneless",
@@ -30,6 +45,11 @@
       "unit" : "pound"
     },
     {
+      "gradeSpread" : {
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "prime" : "1.054",
+        "select" : "0.988"
+      },
       "hint" : "Roasts lose about a third of their weight cooking; a 3 lb roast feeds 6.",
       "id" : "chuck-roast-boneless",
       "name" : "Chuck roast, boneless",
