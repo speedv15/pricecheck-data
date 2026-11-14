@@ -1,9 +1,9 @@
 {
-  "generatedAt" : "2026-11-08",
+  "generatedAt" : "2026-11-14",
   "items" : [
     {
       "gradeSpread" : {
-        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-13",
         "prime" : "1.215",
         "select" : "0.866"
       },
@@ -22,9 +22,9 @@
     },
     {
       "gradeSpread" : {
-        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-13",
         "prime" : "1.403",
-        "select" : "0.809"
+        "select" : "0.814"
       },
       "hint" : "A 1-inch NY strip is usually 10–14 oz.",
       "id" : "strip-boneless",
@@ -34,9 +34,9 @@
     },
     {
       "gradeSpread" : {
-        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
-        "prime" : "1.139",
-        "select" : "0.966"
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-13",
+        "prime" : "1.149",
+        "select" : "0.967"
       },
       "hint" : "A sirloin steak is usually 8–12 oz.",
       "id" : "sirloin-boneless",
@@ -46,7 +46,7 @@
     },
     {
       "gradeSpread" : {
-        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-06",
+        "basis" : "USDA wholesale grade spread, 52 weeks to 2026-11-13",
         "prime" : "1.054",
         "select" : "0.988"
       },
@@ -82,6 +82,16 @@
     }
   ],
   "observations" : [
+    {
+      "date" : "2026-11-13",
+      "detail" : "Conventional, 184 stores, $1.69–$2.49",
+      "itemID" : "chicken-breast-boneless",
+      "kind" : "sale",
+      "price" : "1.97",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 184
+    },
     {
       "date" : "2026-11-06",
       "detail" : "Conventional, 132 stores, $3.99–$4.99",
@@ -143,6 +153,15 @@
       "storeCount" : 71
     },
     {
+      "date" : "2026-10-01",
+      "detail" : "Chicken breast, boneless",
+      "itemID" : "chicken-breast-boneless",
+      "kind" : "regular",
+      "price" : "3.977",
+      "region" : "Northeast",
+      "source" : "bls"
+    },
+    {
       "date" : "2026-09-25",
       "detail" : "Conventional, 736 stores, $0.99–$2.49",
       "itemID" : "chicken-breast-boneless",
@@ -202,16 +221,6 @@
       "storeCount" : 648
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "Conventional, 90 stores, $2.49–$3.99",
-      "itemID" : "chicken-breast-boneless",
-      "kind" : "sale",
-      "price" : "3.31",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 90
-    },
-    {
       "date" : "2026-08-01",
       "detail" : "Chicken breast, boneless",
       "itemID" : "chicken-breast-boneless",
@@ -221,13 +230,48 @@
       "source" : "bls"
     },
     {
-      "date" : "2026-07-01",
-      "detail" : "Chicken breast, boneless",
-      "itemID" : "chicken-breast-boneless",
-      "kind" : "regular",
-      "price" : "3.839",
+      "date" : "2026-11-13",
+      "detail" : "Branded Choice, Conventional, 544 stores, $5.99–$11.99",
+      "grade" : "choice",
+      "itemID" : "chuck-roast-boneless",
+      "kind" : "sale",
+      "price" : "7.09",
       "region" : "Northeast",
-      "source" : "bls"
+      "source" : "usda",
+      "storeCount" : 544
+    },
+    {
+      "date" : "2026-11-13",
+      "detail" : "No grade stated, Conventional, 185 stores, $7.49–$8.99",
+      "grade" : "ungraded",
+      "itemID" : "chuck-roast-boneless",
+      "kind" : "sale",
+      "price" : "7.64",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 185
+    },
+    {
+      "date" : "2026-11-13",
+      "detail" : "Choice, Conventional, 280 stores, $5.49–$9.49",
+      "grade" : "choice",
+      "itemID" : "chuck-roast-boneless",
+      "kind" : "sale",
+      "price" : "7.20",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 280
+    },
+    {
+      "date" : "2026-11-13",
+      "detail" : "Branded Prime, Conventional, 105 stores, $6.29",
+      "grade" : "prime",
+      "itemID" : "chuck-roast-boneless",
+      "kind" : "sale",
+      "price" : "6.29",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 105
     },
     {
       "date" : "2026-11-06",
@@ -571,37 +615,26 @@
       "storeCount" : 132
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "Choice, Conventional, 238 stores, $6.99–$9.99",
-      "grade" : "choice",
-      "itemID" : "chuck-roast-boneless",
+      "date" : "2026-11-13",
+      "detail" : "No grade stated, Conventional, 633 stores, $3.99–$8.79",
+      "grade" : "ungraded",
+      "itemID" : "ground-beef-80",
       "kind" : "sale",
-      "price" : "9.44",
+      "price" : "5.90",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 238
+      "storeCount" : 633
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "Branded Prime, Conventional, 105 stores, $6.29",
-      "grade" : "prime",
-      "itemID" : "chuck-roast-boneless",
+      "date" : "2026-11-13",
+      "detail" : "Branded, no grade stated, Conventional, 20 stores, $6.99",
+      "grade" : "ungraded",
+      "itemID" : "ground-beef-80",
       "kind" : "sale",
-      "price" : "6.29",
+      "price" : "6.99",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 105
-    },
-    {
-      "date" : "2026-08-21",
-      "detail" : "Branded Choice, Conventional, 179 stores, $5.99–$6.99",
-      "grade" : "choice",
-      "itemID" : "chuck-roast-boneless",
-      "kind" : "sale",
-      "price" : "6.40",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 179
+      "storeCount" : 20
     },
     {
       "date" : "2026-11-06",
@@ -712,6 +745,15 @@
       "region" : "Northeast",
       "source" : "usda",
       "storeCount" : 127
+    },
+    {
+      "date" : "2026-10-01",
+      "detail" : "Ground beef, 100% beef (all lean levels)",
+      "itemID" : "ground-beef-80",
+      "kind" : "regular",
+      "price" : "6.681",
+      "region" : "Northeast",
+      "source" : "bls"
     },
     {
       "date" : "2026-09-25",
@@ -844,42 +886,11 @@
       "storeCount" : 235
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "No grade stated, Conventional, 493 stores, $4.99–$6.79",
-      "grade" : "ungraded",
-      "itemID" : "ground-beef-80",
-      "kind" : "sale",
-      "price" : "5.92",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 493
-    },
-    {
-      "date" : "2026-08-21",
-      "detail" : "Branded, no grade stated, Conventional, 37 stores, $6.99",
-      "grade" : "ungraded",
-      "itemID" : "ground-beef-80",
-      "kind" : "sale",
-      "price" : "6.99",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 37
-    },
-    {
       "date" : "2026-08-01",
       "detail" : "Ground beef, 100% beef (all lean levels)",
       "itemID" : "ground-beef-80",
       "kind" : "regular",
       "price" : "6.989",
-      "region" : "Northeast",
-      "source" : "bls"
-    },
-    {
-      "date" : "2026-07-01",
-      "detail" : "Ground beef, 100% beef (all lean levels)",
-      "itemID" : "ground-beef-80",
-      "kind" : "regular",
-      "price" : "6.896",
       "region" : "Northeast",
       "source" : "bls"
     },
@@ -994,26 +1005,15 @@
       "storeCount" : 77
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "No grade stated, Conventional, 324 stores, $9.69–$11.99",
+      "date" : "2026-11-13",
+      "detail" : "No grade stated, ABF, Grass Fed, 573 stores, $17.99–$21.58",
       "grade" : "ungraded",
-      "itemID" : "ribeye-boneless",
+      "itemID" : "ribeye-boneless-grassfed",
       "kind" : "sale",
-      "price" : "11.05",
+      "price" : "20.40",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 324
-    },
-    {
-      "date" : "2026-08-21",
-      "detail" : "Choice, Conventional, 38 stores, $14.99",
-      "grade" : "choice",
-      "itemID" : "ribeye-boneless",
-      "kind" : "sale",
-      "price" : "14.99",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 38
+      "storeCount" : 573
     },
     {
       "date" : "2026-11-06",
@@ -1126,15 +1126,37 @@
       "storeCount" : 656
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "No grade stated, ABF, Grass Fed, 660 stores, $20.78–$35.98",
+      "date" : "2026-11-13",
+      "detail" : "No grade stated, Conventional, 14 stores, $8.99",
       "grade" : "ungraded",
-      "itemID" : "ribeye-boneless-grassfed",
+      "itemID" : "sirloin-boneless",
       "kind" : "sale",
-      "price" : "24.02",
+      "price" : "8.99",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 660
+      "storeCount" : 14
+    },
+    {
+      "date" : "2026-11-13",
+      "detail" : "Branded Choice, Conventional, 17 stores, $8.99",
+      "grade" : "choice",
+      "itemID" : "sirloin-boneless",
+      "kind" : "sale",
+      "price" : "8.99",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 17
+    },
+    {
+      "date" : "2026-11-13",
+      "detail" : "Choice, Conventional, 147 stores, $10.99",
+      "grade" : "choice",
+      "itemID" : "sirloin-boneless",
+      "kind" : "sale",
+      "price" : "10.99",
+      "region" : "Northeast",
+      "source" : "usda",
+      "storeCount" : 147
     },
     {
       "date" : "2026-11-06",
@@ -1390,32 +1412,32 @@
       "storeCount" : 196
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "Branded Choice, Conventional, 158 stores, $10.99–$12.99",
+      "date" : "2026-11-13",
+      "detail" : "Branded Choice, Conventional, 17 stores, $19.99",
       "grade" : "choice",
-      "itemID" : "sirloin-boneless",
+      "itemID" : "strip-boneless",
       "kind" : "sale",
-      "price" : "11.33",
+      "price" : "19.99",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 158
+      "storeCount" : 17
     },
     {
-      "date" : "2026-08-21",
-      "detail" : "Choice, Conventional, 25 stores, $11.49",
-      "grade" : "choice",
-      "itemID" : "sirloin-boneless",
+      "date" : "2026-11-13",
+      "detail" : "No grade stated, Conventional, 192 stores, $7.99",
+      "grade" : "ungraded",
+      "itemID" : "strip-boneless",
       "kind" : "sale",
-      "price" : "11.49",
+      "price" : "7.99",
       "region" : "Northeast",
       "source" : "usda",
-      "storeCount" : 25
+      "storeCount" : 192
     },
     {
-      "date" : "2026-08-21",
+      "date" : "2026-11-13",
       "detail" : "Choice, Conventional, 22 stores, $12.99",
       "grade" : "choice",
-      "itemID" : "sirloin-boneless",
+      "itemID" : "strip-boneless",
       "kind" : "sale",
       "price" : "12.99",
       "region" : "Northeast",
@@ -1707,17 +1729,6 @@
       "region" : "Northeast",
       "source" : "usda",
       "storeCount" : 38
-    },
-    {
-      "date" : "2026-08-21",
-      "detail" : "Choice, Conventional, 87 stores, $14.99–$16.99",
-      "grade" : "choice",
-      "itemID" : "strip-boneless",
-      "kind" : "sale",
-      "price" : "16.12",
-      "region" : "Northeast",
-      "source" : "usda",
-      "storeCount" : 87
     }
   ]
 }
